@@ -1,5 +1,5 @@
 # Amazon-Email-Checker-Validator
-2019 Amazin Email Checker Validator Without Proxy or Socks
+2019 Amazon Email Checker Validator Without Proxy or Socks
 
 It's the new version of Amazon email Checker Validtor Optimized on thread with Fast Speed
 
